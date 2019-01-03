@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="网易青果接口测试"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.178">
+  <properties />
+  
+  
+            <testcase name="deleteAddressFail1" time="0.199" classname="com.edu.test.DeleteAddress_Test" />
+                <testcase name="deleteAddressFail2" time="0.167" classname="com.edu.test.DeleteAddress_Test" />
+                <testcase name="deleteAddressFail3" time="0.269" classname="com.edu.test.DeleteAddress_Test" />
+                <testcase name="deleteAddressFail0" time="0.165" classname="com.edu.test.DeleteAddress_Test" />
+                <testcase name="deleteSuccess" time="0.378" classname="com.edu.test.DeleteAddress_Test" />
+      
+</testsuite>

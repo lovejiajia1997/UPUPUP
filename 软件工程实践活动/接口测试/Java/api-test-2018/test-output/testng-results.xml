@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1434" started-at="2018-10-30T06:47:50Z" finished-at="2018-10-30T06:47:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1434" started-at="2018-10-30T06:47:50Z" finished-at="2018-10-30T06:47:52Z">
+      <class name="com.edu.test.Supermarket">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.edu.test.Supermarket@26653222]" name="setUp" is-config="true" duration-ms="873" started-at="2018-10-30T06:47:50Z" finished-at="2018-10-30T06:47:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="priceSuccess()[pri:0, instance:com.edu.test.Supermarket@26653222]" name="priceSuccess" duration-ms="520" started-at="2018-10-30T06:47:51Z" finished-at="2018-10-30T06:47:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priceSuccess -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.edu.test.Supermarket@26653222]" name="tearDown" is-config="true" duration-ms="1" started-at="2018-10-30T06:47:52Z" finished-at="2018-10-30T06:47:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.edu.test.Supermarket -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

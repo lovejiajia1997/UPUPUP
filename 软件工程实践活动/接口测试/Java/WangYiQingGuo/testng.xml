@@ -1,0 +1,25 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="Suite1" verbose="1" >
+	<listeners> 
+		<listener class-name="com.edu.core.ApiListener" />
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+  <test name="网易青果接口测试">
+    <classes>
+    		<class name="com.edu.test.Login_Test"/>
+    		<class name="com.edu.test.SkuList_Test"/>
+    		<class name="com.edu.test.AddAddress_Test"/>
+    		<class name="com.edu.test.GetAddress_Test"/>
+    		<class name="com.edu.test.Get_Transport_Fee_Test"/>
+      	<class name="com.edu.test.DeleteAddress_Test"/>
+      	<class name="com.edu.test.Submit_Test"/>    
+    		<class name="com.edu.test.Scene1_Test"/>
+    		<class name="com.edu.test.Scene2_Test"/>
+    		<class name="com.edu.test.Scene3_Test"/>
+    		<class name="com.edu.test.Scene4_Test"/>
+    		<class name="com.edu.test.Scene5_Test"/>
+    </classes>
+  </test>
+</suite>

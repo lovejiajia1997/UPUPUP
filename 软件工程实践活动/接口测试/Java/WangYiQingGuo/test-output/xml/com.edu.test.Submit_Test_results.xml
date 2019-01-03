@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="网易青果接口测试"
+           tests="14"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.395">
+  <properties />
+  
+  
+            <testcase name="skuIdsError" time="0.191" classname="com.edu.test.Submit_Test" />
+                <testcase name="commodityNull" time="0.169" classname="com.edu.test.Submit_Test" />
+                <testcase name="stockIdsError" time="0.168" classname="com.edu.test.Submit_Test" />
+                <testcase name="billNull" time="0.168" classname="com.edu.test.Submit_Test" />
+                <testcase name="stockIdNull" time="0.175" classname="com.edu.test.Submit_Test" />
+                <testcase name="goodsIDNull" time="0.173" classname="com.edu.test.Submit_Test" />
+                <testcase name="skuNumbersNull" time="0.161" classname="com.edu.test.Submit_Test" />
+                <testcase name="skuIdsNull" time="0.161" classname="com.edu.test.Submit_Test" />
+                <testcase name="success1" time="0.167" classname="com.edu.test.Submit_Test" />
+                <testcase name="addressNull" time="0.188" classname="com.edu.test.Submit_Test" />
+                <testcase name="skuNumbersError1" time="0.178" classname="com.edu.test.Submit_Test" />
+                <testcase name="success2" time="0.166" classname="com.edu.test.Submit_Test" />
+                <testcase name="stockIdsNull" time="0.158" classname="com.edu.test.Submit_Test" />
+                <testcase name="skuNumbersError2" time="0.172" classname="com.edu.test.Submit_Test" />
+      
+</testsuite>

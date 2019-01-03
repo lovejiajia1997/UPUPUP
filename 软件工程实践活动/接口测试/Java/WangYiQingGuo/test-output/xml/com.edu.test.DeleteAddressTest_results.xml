@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression1"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.228">
+  <properties />
+  
+  
+            <testcase name="deleteAddressFail1" time="0.178" classname="com.edu.test.DeleteAddressTest" />
+                <testcase name="deleteSuccess" time="0.415" classname="com.edu.test.DeleteAddressTest" />
+                <testcase name="deleteAddressFail2" time="0.169" classname="com.edu.test.DeleteAddressTest" />
+                <testcase name="deleteAddressFail3" time="0.276" classname="com.edu.test.DeleteAddressTest" />
+                <testcase name="deleteAddressFail0" time="0.190" classname="com.edu.test.DeleteAddressTest" />
+      
+</testsuite>

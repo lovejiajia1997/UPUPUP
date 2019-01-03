@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="网易青果接口测试"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.464">
+  <properties />
+  
+  
+            <testcase name="skulist3" time="0.093" classname="com.edu.test.SkuList_Test" />
+                <testcase name="skulist1" time="0.095" classname="com.edu.test.SkuList_Test" />
+                <testcase name="skulist4" time="0.093" classname="com.edu.test.SkuList_Test" />
+                <testcase name="skulist5" time="0.094" classname="com.edu.test.SkuList_Test" />
+                <testcase name="skulist2" time="0.089" classname="com.edu.test.SkuList_Test" />
+      
+</testsuite>

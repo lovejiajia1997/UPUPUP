@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="网易青果接口测试"
+           tests="10"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.449">
+  <properties />
+  
+  
+            <testcase name="loginfail7" time="0.084" classname="com.edu.test.Login_Test" />
+                <testcase name="loginSuccess" time="0.120" classname="com.edu.test.Login_Test" />
+                <testcase name="loginfail9" time="0.098" classname="com.edu.test.Login_Test" />
+                <testcase name="loginfail2" time="0.089" classname="com.edu.test.Login_Test" />
+                <testcase name="loginfail3" time="0.090" classname="com.edu.test.Login_Test" />
+                <testcase name="loginfail4" time="0.082" classname="com.edu.test.Login_Test" />
+                <testcase name="loginFail1" time="0.596" classname="com.edu.test.Login_Test" />
+                <testcase name="loginfail8" time="0.100" classname="com.edu.test.Login_Test" />
+                <testcase name="loginfail5" time="0.096" classname="com.edu.test.Login_Test" />
+                <testcase name="loginfail6" time="0.094" classname="com.edu.test.Login_Test" />
+      
+</testsuite>

@@ -1,0 +1,9 @@
+[ERROR] 2018-11-16 10:20:42,937 com.webtest.utils.Log - com.webtest.demo.Front_Login_Test@58d75e99-testLogin运行失败，需要截屏
+[ERROR] 2018-11-23 09:51:56,407 com.webtest.utils.Log - com.webtest.demo.Demo1@273444fe-test1运行失败，需要截屏
+[ERROR] 2018-11-23 09:51:56,510 com.webtest.utils.Log - com.webtest.demo.Demo1@273444fe-test1运行失败，需要截屏
+[ERROR] 2018-11-23 10:01:04,997 com.webtest.utils.Log - com.webtest.demo.Front_Login_Test@7c137fd5-testLoginSuccess运行失败，需要截屏
+[ERROR] 2018-11-25 17:32:17,742 com.webtest.utils.Log - com.webtest.demo.Front_Login_Test@7c137fd5-testLoginSuccess运行失败，需要截屏
+[ERROR] 2018-11-26 14:55:30,590 com.webtest.utils.Log - com.webtest.demo.Front_Login_Test@7c137fd5-testLoginSuccess运行失败，需要截屏
+[ERROR] 2018-11-26 14:59:36,451 com.webtest.utils.Log - com.webtest.demo.Front_Login_Test@7c137fd5-testLoginSuccess运行失败，需要截屏
+[ERROR] 2018-11-26 15:08:41,393 com.webtest.utils.Log - com.webtest.demo.Front_Login_Test@7c137fd5-testLoginSuccess运行失败，需要截屏
+[ERROR] 2018-11-26 15:11:13,426 com.webtest.utils.Log - com.webtest.demo.Front_Login_Test@7c137fd5-testLoginSuccess运行失败，需要截屏
